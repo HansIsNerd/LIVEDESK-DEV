@@ -1,0 +1,28 @@
+{
+  "names": [
+    "nimbus_kun", "rara.plays", "kopi_susu99", "bangDito", "yuki_fanatic",
+    "mie_instan_enjoyer", "sasa_gg", "pixel_nara", "gembul_tv", "lumos_id",
+    "tehbotol_sosro", "cipung_gaming", "dewi_night", "raka_afk", "moon_bun"
+  ],
+  "templates": [
+    {"audience": "fan", "text": "halo kak, semangat streamnya malam ini!", "color": "#1F2937"},
+    {"audience": "fan", "text": "suaranya enak banget, bikin betah", "color": "#1F2937"},
+    {"audience": "fan", "text": "kak mainnya makin jago ya", "color": "#1F2937"},
+    {"audience": "fan", "text": "akhirnya live juga, kangen!", "color": "#1F2937"},
+    {"audience": "fan", "text": "pertama kali nonton, langsung suka", "color": "#1F2937"},
+    {"audience": "fan", "text": "ngakak parah barusan wkwk", "color": "#1F2937"},
+    {"audience": "fan", "text": "jangan lupa minum air putih kak", "color": "#1F2937"},
+    {"audience": "fan", "text": "setup barunya keren banget!", "color": "#1F2937"},
+    {"audience": "fan", "text": "kak, notice me dong", "color": "#1F2937"},
+    {"audience": "fan", "text": "sehat terus ya kak, jangan lupa istirahat", "color": "#1F2937"},
+    {"audience": "fan", "text": "lagunya enak, itu playlist apa kak?", "color": "#1F2937"},
+    {"audience": "troll", "text": "ini doang? gitu aja bangga", "color": "#DC2626"},
+    {"audience": "troll", "text": "bosen, ganti topik deh", "color": "#DC2626"},
+    {"audience": "troll", "text": "kualitas stream turun terus akhir-akhir ini", "color": "#DC2626"},
+    {"audience": "donor", "text": "Donasi Rp50.000: buat beli kopi, kak!", "color": "#B45309"},
+    {"audience": "donor", "text": "Donasi Rp100.000: tolong shoutout nama aku ya", "color": "#B45309"},
+    {"audience": "bot", "text": "gratis 1000 viewers, klik link di bio", "color": "#6B7280"},
+    {"audience": "mod", "text": "tolong jaga chat tetap sopan ya", "color": "#059669"},
+    {"audience": "mod", "text": "spam akan langsung di-timeout", "color": "#059669"}
+  ]
+}
